@@ -8,7 +8,9 @@ arch=('any')
 url="https://github.com/UaiSO21/$pkgname"
 license=('GPL3')
 depends=(
+                'lib32-libpipewire'
                 'pipewire'
+                'libpipewire'
                 'pipewire-alsa'
                 'pipewire-jack'
                 'pipewire-pulse'

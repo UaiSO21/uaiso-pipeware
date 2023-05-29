@@ -15,8 +15,8 @@ depends=(
                 'pipewire-pulse'
                 'gst-plugin-pipewire'
                 'libpulse'
-                'wireplumber'
-            )
+                
+                )
             
 provides=("$pkgname")
 # conflicts=('')

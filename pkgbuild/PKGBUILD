@@ -12,7 +12,6 @@ depends=(
                 'pipewire'
                 'libpipewire'
                 'pipewire-alsa'
-                'pipewire-jack'
                 'pipewire-pulse'
                 'gst-plugin-pipewire'
                 'libpulse'

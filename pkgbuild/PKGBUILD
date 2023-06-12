@@ -15,6 +15,7 @@ depends=(
                 'pipewire-pulse'
                 'gst-plugin-pipewire'
                 'libpulse'
+                'pipewire-v4l2'
                 
                 )
             

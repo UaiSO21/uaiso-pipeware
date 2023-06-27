@@ -16,6 +16,7 @@ depends=(
                 'gst-plugin-pipewire'
                 'libpulse'
                 'pipewire-v4l2'
+                'biglinux-noise-reduction-pipewire'
                 
                 )
             
